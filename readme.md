@@ -6,8 +6,9 @@ step 3: php artisan key:generate <br>
 step 4: update .env and make new database name in env file and also localhost/phpmyadmin/DB. <br>
 step 5: if SQL file is available then import db or run this command <br>
 Step 6 : php artisan migrate <br>
+Step 7 : php artisan db:seed <br>
 
-Step 6 : php artisan serve <br>
+Step 8 : php artisan serve <br>
 
 
 ![image](https://user-images.githubusercontent.com/73776438/120879880-30fc7980-c5e4-11eb-87d9-18c9e031e156.png)
