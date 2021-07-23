@@ -1,3 +1,5 @@
+Laravel Project Crud, Pop-up Modal, Image store and send mail and lots of function
+
 1st step Project setup #############################
 
 step 1: composer update or composer install <br>
